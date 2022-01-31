@@ -49,5 +49,5 @@
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.17"
   },
-  "homepage": "/bd.mangas/"
+  "homepage": "."
 }
